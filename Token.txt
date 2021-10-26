@@ -1,0 +1,25 @@
+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
+
+git remote add origin https://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@github.com/geroajam/*nombre de repositorio*
+git remote add origin .git
+https://github.com/geroajam/Pseint.git
+Pasos
+$ git init
+
+$ git status
+
+$ git add .
+
+$ git status
+
+$ git commit -m "primer commit"
+
+$ git log
+
+$ git remote add origin https://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@github.com/geroajam/Pseint.git
+
+$ git remote -v
+
+$ git push origin main
+
+
